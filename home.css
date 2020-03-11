@@ -1,0 +1,45 @@
+body
+{
+    background:url(b3.jfif);
+    background-size: cover;
+}
+header
+{
+    height: 5px;
+
+}
+nav
+{
+    height:105px;
+}
+a
+{
+    font-size: 15px;
+    color:darkred;
+    font-family: fantasy;
+}
+#a
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#b
+{
+    margin-right: 330px;
+    margin-left: 330px;
+    margin-top: -600px;
+}
+p
+{
+    font-family:fantasy;
+    font-weight:normal;
+    color:black;
+    text-align:center;
+}
+#c
+{
+    color:darkred;
+    font-family: fantasy;
+}

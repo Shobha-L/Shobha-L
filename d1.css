@@ -1,0 +1,56 @@
+header
+{
+    height:50px ;
+    text-align: center;
+    font-size: 40px;
+    font-weight:500;
+    font-family:fantasy;
+}
+nav
+{
+   height:20px;
+
+
+}
+section
+{
+    height:615px ;
+    width:25%;
+
+}
+aside
+{
+    height: 625px;
+    width:70%;
+    float:right;
+    margin-top:-639px;
+}
+footer
+{
+    height: 45px;
+}
+a{
+    font-family:fantasy;
+    font-size: 16px;
+    font-weight: 900;
+    color:red;
+    
+
+}
+.a{
+    text-indent: 10%;
+    height: 175px;
+    width:32%;
+    opacity: 70%;
+    text-align: justify-all;
+    border-spacing: 20px;
+}
+  html
+            {
+                background:url(b2.jfif)no-repeat center fixed;
+                background-size: cover;
+            }
+img
+{
+    opacity: 70%;
+}

@@ -1,0 +1,44 @@
+ video 
+            {
+                height: 600px;
+                width: 900px;
+                margin-top: -50px;
+
+            }
+            body
+            {
+                background-color: white;
+            }
+            aside
+            {
+                height: 670px;
+                width:70%;
+                float:right;
+                margin-top:-550px;
+            }
+            #a
+            {
+                text-indent: 20%;
+                height: 175px;
+                width:50%;
+                float:right;
+                margin-top: -100px;
+            }
+            #b
+            {
+                height: 170px;
+                width: 35%;
+                float: right;
+                margin-top: -450px;
+                text-align: center;
+                text-align: justify-all;
+            }
+             #c
+            {
+                height: 170px;
+                width: 35%;
+                float: right;
+                margin-top: -250px;
+                text-align: center;
+                text-align: justify-all;
+            }
